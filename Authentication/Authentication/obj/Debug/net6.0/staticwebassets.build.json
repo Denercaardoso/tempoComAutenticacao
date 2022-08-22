@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KKBTQ78uKlt82jmYymmiMdul7arGjPPR4udB74CqCCk=",
+  "Source": "Authentication",
+  "BasePath": "_content/Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Authentication\\wwwroot",
+      "Source": "Authentication",
+      "ContentRoot": "C:\\Users\\Dener\\Downloads\\senacFrontEnd-feature-authentication2\\senacFrontEnd-feature-authentication2\\Aulas\\Projeto\\Authentication\\Authentication\\wwwroot\\",
+      "BasePath": "_content/Authentication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dener\\Downloads\\senacFrontEnd-feature-authentication2\\senacFrontEnd-feature-authentication2\\Aulas\\Projeto\\Authentication\\Authentication\\wwwroot\\favicon.ico",
+      "SourceId": "Authentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dener\\Downloads\\senacFrontEnd-feature-authentication2\\senacFrontEnd-feature-authentication2\\Aulas\\Projeto\\Authentication\\Authentication\\wwwroot\\",
+      "BasePath": "_content/Authentication",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

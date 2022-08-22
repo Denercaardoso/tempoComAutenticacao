@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44443",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Dener\\Downloads\\senacFrontEnd-feature-authentication2\\senacFrontEnd-feature-authentication2\\Aulas\\Projeto\\Authentication\\Authentication\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
